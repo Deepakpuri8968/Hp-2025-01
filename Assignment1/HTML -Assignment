@@ -1,0 +1,58 @@
+...... Introduction of HTML - why, what and where?
+
+Ans. HTML, short for Hyper Text Markup Language is the foundation of every webpage you see on the internet. It is a markup language, not a programming language. that uses tags of structure and  display content like text, images and links. Think of it as the skeleton of website, providing the basic framework for the content  to be placed. HTML was created by Tim Berners- Lee in 1990.
+
+why-
+1.Structures-content: HTML provides the basic building blocks for organization text, image and other content on a webpages.
+2.Display information: HTML tells web browers how to content in a logical and readable way.
+3.Making the web accessible: HTML is used to create semantic structures, making web content understandable to both user interface of web applications.
+
+what-
+A markup language: HTML uses tags to structure and format content on a webpage.
+HTML is the foundation upon which websites are built, defining the structure and content.
+It is not programming language.
+
+where-
+Every web page: HTML is the standard language for creating web pages that are displayed in web browsers.
+Web Application: HTML is used to build the user interface of web applications.
+Mobile Applicaton: HTML is often used to develop the frontend of mobile web applications.
+
+1. what is HTML ? What does it stand for?
+Ans.HTML, which stands for HyperText Markup Language, is the fundamental language used to structure and present content on the web.
+
+(a) High Tea Markup language.
+(b) HyperText Missing language.
+(c) High Text Markup language.
+(d) Hyper Text Markup language.
+
+2.why is HTML considered the backbone of web?
+Ans. HTML is considered the backbone of the web because it forms the fundamental structure for every web page, defining how content is organized and displayed.
+
+3.Describe three real life example wehere HTML is used?
+Ans. HTML, the foundation of web pages, has numerous real-world applications. Here are three examples: web development, web applications, and email templates. 
+1. Web Development: HTML is the backbone of every website. It defines the structure and content of web pages, organizing text, images, links, and other elements for easy navigation and presentation.
+
+2. Web Applications: HTML, in combination with CSS and JavaScript, powers complex web applications. 
+
+3. Email Templates: HTML is used to create visually appealing and responsive email templates. It allows for the inclusion of multimedia elements like images and videos, making emails.
+
+
+4.Explain the difference between HTML and a programming language.
+Ans. HTML: 
+(a) Used to define and content.
+(b) Focus on presentation and data formatting.
+(c) example: HTML
+
+Programming language:
+(a) used to perform logical operations and execute tasks.
+(b) Includes constructs like loops, conditionals, and variable.
+(c) Example: javascript, python, C++.
+
+
+5.How does HTML interact with CSS and JavaScript in a web page?
+Ans. HTML provides the structural foundation of a web page, defining elements like headings, paragraphs, and images.
+CSS (Cascading Style Sheets) handles the presentation and visual styling of that structure, controlling aspects like colors, fonts, and layouts.
+JavaScript adds interactivity and dynamic behavior, making elements respond to user actions or change content over time. 
+
+
+
