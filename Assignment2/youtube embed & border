@@ -11,7 +11,7 @@ padding:10px
 <body>
 <h1>My Favorite Video</h1>
 <video src="https://youtu.be/dQw4w9WgXcQ" height:320px;
-width:320px controls>
+width:320px; controls>
 
 </video>
 <h2>Border Example</h2>
