@@ -19,23 +19,23 @@ Mobile Applicaton: HTML is often used to develop the frontend of mobile web appl
 
 Objective: To understand the fundamental concepts of HTML, its purpose, origin, and where it fits in modern web development.
 
-Ans. 1.Concepts of HTML: 
+Ans. I.Concepts of HTML: 
 (a) Markup Language: HTML uses tags to mark up content. Example: <p> tells the browser to create a paragraph.
 (b) Tags: The part inside < and > e.g, <p> is the opening tag and </p> is the closing tag.
 (c) Attributes: Tags can have attributes to provide extra information. e.g: <img src="photo.jpg" alt="A photo">
 
-  2. purpose of HTML:
+  II. purpose of HTML:
    (a)Structure: HTML define the structure and layout of webpages by using tags and elements.
     (b)content: It determines how text, images and other media are organization and display.
     (c)Links: HTML allowss linking to other webpages. forming a web of interconnected documents.
 
-  3. Origin and History:
+  III. Origin and History:
     (a) Invented by Tim Berners-Lee in 1991 while working at CERN.
     (b) The  first version was very basic, designed for simple text-based, documents.
     (c) HTML has evolved through several versions, adding support for multimedia, scripting and more interactive features.
     (d) The Current standard s HTML5 which includes modern features like audio, video and semantic elements.
 
-  4. Where it fit in modern web development:
+  IV. Where it fit in modern web development:
 
   HTML is a core technology in web development
 
